@@ -126,6 +126,6 @@ int main(int argc, char **argv){
   //Diferencia
   diff_t2 = difftime(end_t2, start_t2);
 
-  printf("\nTiempo de ejecucion: %f\n\n",diff_t2);
+  printf("\nTiempo de ejecucion: %f segundos\n\n",diff_t2);
 
 }
